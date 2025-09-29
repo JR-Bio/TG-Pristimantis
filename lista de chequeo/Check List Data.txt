@@ -1,1 +1,93 @@
-Hola
+
+LISTA DE CHEQUEO PARA SALIDA DE CAMPO.
+================================================================================
+
+A. FASE PRELIMINAR - ADMINISTRATIVOS
+------------------------------------------
+
+[ ] PERMISOS INSTITUCIONALES (UIS)
+    - [ ] Verificar que el docente responsable esté amparado bajo el permiso MARCO.
+    - [ ] Remitir carta a la Vicerrectoría de Investigación (recursosbio@uis.edu.co).
+    - [ ] Revisar la comunicación del Profesional de la VIE ante el ANLA.
+
+[ ] PERMISOS EXTERNOS (PNN)
+    - [ ] Solicitar autorización de recolección (Formato M4-FO-28).
+    - [ ] Radicar la documentación completa ante PNN.
+    - [ ] Descargar y guardar la autorización de permiso de colecta para PNN Yariguíes.
+
+[ ] DEFINICIÓN DEL ÁREA DE ESTUDIO
+    - [ ] Realizar visita preliminar al área de estudio.
+    - [ ] Identificar zonas aptas para hospedaje y logística.
+    - [ ] Preparar shapefiles con delimitación del área y rutas de muestreo.
+    - [ ] Elaborar lista de especies potenciales según área geográfica y altitud.
+
+------------------------------------------
+
+B. COLECTA
+
+[ ] Métodos de colecta para anfibios
+    - [ ] Uso del protocolo de colecta MHN-UIS.
+
+[ ] Extracción de tejido
+    -[ ] Hígado para especímenes con valores de SVL mayores a 17mm
+    -[ ] Musculo para especímenes con valores de SVL  a 17mm
+
+[ ] Manejo de especímenes
+    - [ ] Almacenamiento bajo alcohol al 70% en frascos de vidrio
+    - [ ] Remitir carta a la Vicerrectoría de Investigación (recursosbio@uis.edu.co).
+    - [ ] Revisar la comunicación del Profesional de la VIE ante el ANLA.
+
+
+
+
+B. FASE PREVIA A LA SALIDA - LOGÍSTICA Y PREPARACIÓN
+----------------------------------------------------
+
+[ ] LOGÍSTICA
+    - [ ] Contratar transporte.
+    - [ ] Verificar requisitos del conductor para transporte de personal.
+    - [ ] Organizar plan de alimentación.
+
+[ ] ALOJAMIENTO
+    - [ ] Confirmar reservas en hospedajes o campamentos.
+    - [ ] Revisar y preparar equipos de campamento (si aplica).
+
+[ ] SEGURIDAD Y SALUD
+    - [ ] Preparar botiquín de primeros auxilios completo.
+    - [ ] Verificar póliza o seguro de accidentes vigente.
+    - [ ] Recopilar contactos de emergencia (hospitales, autoridades locales).
+    - [ ] Establecer protocolos de bioseguridad (vacunas, repelente, bloqueador, EPP).
+    - [ ] Recibir capacitación en manejo de emergencias y fauna peligrosa.
+    - [ ] Recibir capacitación en Seguridad y Salud en el Trabajo.
+
+[ ] EQUIPOS Y MATERIALES
+    - [ ] GPS.
+    - [ ] Linternas frontales y baterías extras.
+    - [ ] Equipos de comunicación (radios).
+    - [ ] Cámaras fotográficas.
+    - [ ] Equipo para recolección de especímenes y tejido (metodología MHN-UIS).
+
+[ ] MANEJO DE DATOS (PREPARATIVOS)
+
+    - [ ] Preparar formatos estandarizados de datos en físico/digital.
+    - [ ] Configurar sistema para copias de seguridad diarias.
+    - [ ] Preparar hipervínculo/carpeta para subida de datos fotográficos y geográficos.
+
+  [ ] MANEJO DE DATOS (PREPARATIVOS)
+
+
+[ ] ASPECTOS ÉTICOS
+    - [ ] Definir plan de disposición de residuos en campo.
+    - [ ] Revisar lineamientos éticos para manipulación de fauna.
+
+C. FASE POST-SALIDA - ENTREGABLES Y CIERRE
+------------------------------------------
+
+[ ] PROCESAMIENTO DE MUESTRAS Y DATOS
+    - [ ] Diligenciar formato DarwinCore con todos los datos.
+    - [ ] Registrar los especímenes colectados ante la Vicerrectoría de Investigación.
+    - [ ] Entregar la bitácora de campo y los especímenes con el DarwinCore al MHN-UIS.
+
+[ ] INFORME Y SOCIALIZACIÓN
+    - [ ] Elaborar informe preliminar de la salida de campo.
+    - [ ] Planificar y ejecutar socialización con interesados (PNN, Comunidades, etc.).
