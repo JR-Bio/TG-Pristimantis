@@ -118,3 +118,5 @@ F .[ ] ASPECTOS ÉTICOS
 - [ ] Montaje y etiquetado adecuados, bajo el código de colector estandarizado.
 - [ ] Adjuntar número del permiso (ANLA/PNN)
 
+ [] Conflicto de intereses
+- [ ] Reporte de conflicto de intereses de los autores y participantes del proyecto
